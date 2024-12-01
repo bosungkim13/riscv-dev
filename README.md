@@ -4,7 +4,7 @@
 This repository documents the process of setting up a RISC-V development environment on macOS, including the installation of essential tools like spike (RISC-V ISA Simulator) and QEMU.
 
 ## Prerequisites
-- macOS (Your version)
+- macOS
 - Homebrew package manager
 - Git
 

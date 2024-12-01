@@ -20,7 +20,12 @@ This repository documents the process of setting up a RISC-V development environ
 - `setup.sh`: Installation script
 
 ## Getting Started
-(Instructions for running first example)
+1. Install RISC-V GNU Toolchain
+```
+brew tap riscv-software-src/riscv
+brew install riscv-tools
+```
+2. Install spike simulator
 
 ## References
 - [RISC-V GNU Toolchain](https://github.com/riscv/riscv-gnu-toolchain)

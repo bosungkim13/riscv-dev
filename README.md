@@ -26,7 +26,9 @@ brew tap riscv-software-src/riscv
 brew install riscv-tools
 ```
 2. Install spike simulator
-
+```
+brew install spike
+```
 ## References
 - [RISC-V GNU Toolchain](https://github.com/riscv/riscv-gnu-toolchain)
 - [spike Simulator](https://github.com/riscv-software-src/riscv-isa-sim)
